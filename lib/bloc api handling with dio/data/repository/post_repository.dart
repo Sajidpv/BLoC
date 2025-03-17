@@ -1,5 +1,5 @@
 import 'package:bloc_tutorial/bloc%20api%20handling%20with%20dio/data/model/post_model.dart';
-import 'package:bloc_tutorial/bloc%20api%20handling%20with%20dio/data/repository/api/api.dart';
+import 'package:bloc_tutorial/bloc%20api%20handling%20with%20dio/data/repository/api/api(basic).dart';
 import 'package:dio/dio.dart';
 
 class PostRepository {

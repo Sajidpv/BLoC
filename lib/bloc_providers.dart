@@ -1,5 +1,5 @@
 import 'package:bloc_tutorial/bloc%20api%20handling%20with%20dio/logic/cubits/post_cubit/post_cubit.dart';
-import 'package:bloc_tutorial/bloc/bloc/internet_bloc.dart';
+import 'package:bloc_tutorial/bloc/connectivity/bloc/internet_bloc.dart';
 import 'package:bloc_tutorial/bloc/screens/auth/bloc/auth_bloc.dart';
 import 'package:bloc_tutorial/cubit/cubits/cubit/internet_cubit.dart';
 import 'package:bloc_tutorial/cubit/screens/auth/cubit/auth_cubit.dart';

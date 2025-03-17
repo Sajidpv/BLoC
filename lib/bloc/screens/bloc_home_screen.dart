@@ -1,4 +1,4 @@
-import 'package:bloc_tutorial/bloc/bloc/internet_bloc.dart';
+import 'package:bloc_tutorial/bloc/connectivity/bloc/internet_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
